@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Food Randomizer</string>
+    <string name="buttonGO">"RANDOM"</string>
+    <string name="buttonAdd">"+"</string>
+    <string name="buttonRemove">"-"</string>
+    <string name="Welcome">"Welcome!"</string>
+    <string name="buttonBack">"Back"</string>
+    <string name="randomed">"Your Randomed Food"</string>
+    <string name="map">"Open Google Map"</string>
+</resources>
